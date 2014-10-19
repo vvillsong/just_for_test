@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello, world!\n");
+	printf("Hello, world!in a directory\n");
 
 	return 0;
 }
